@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+edge-tts
+python-multipart
+groq
+chromadb
+sentence-transformers
+pypdf
+python-docx
