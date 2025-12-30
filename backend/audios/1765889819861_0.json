@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\oussama\\Desktop\\Nouveau dossier (3)\\backend\\audios\\1765889819861_0.wav",
+    "duration": 1.51
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "X" },
+    { "start": 0.13, "end": 0.21, "value": "A" },
+    { "start": 0.21, "end": 0.40, "value": "D" },
+    { "start": 0.40, "end": 0.61, "value": "C" },
+    { "start": 0.61, "end": 0.68, "value": "B" },
+    { "start": 0.68, "end": 1.51, "value": "X" }
+  ]
+}

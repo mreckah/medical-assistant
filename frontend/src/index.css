@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --leva-sizes-rootWidth: 340px;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  /* You can remove the background stuff here since it's now in App.jsx */
+}
+
+/* This turns the body green (KEEP THIS) */
+body.greenScreen {
+  background-color: #00ff00;
+}
+
+/* ADD THIS SECTION: */
+/* When body is green, hide the image on the app-container */
+body.greenScreen .app-container {
+  background-image: none !important;
+  background-color: transparent !important;
+}

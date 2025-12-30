@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\oussama\\Desktop\\Nouveau dossier (3)\\backend\\audios\\1765879959295_0.wav",
+    "duration": 2.42
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.20, "value": "X" },
+    { "start": 0.20, "end": 0.24, "value": "B" },
+    { "start": 0.24, "end": 0.28, "value": "C" },
+    { "start": 0.28, "end": 0.70, "value": "B" },
+    { "start": 0.70, "end": 0.77, "value": "F" },
+    { "start": 0.77, "end": 0.84, "value": "B" },
+    { "start": 0.84, "end": 0.92, "value": "A" },
+    { "start": 0.92, "end": 1.11, "value": "C" },
+    { "start": 1.11, "end": 1.18, "value": "B" },
+    { "start": 1.18, "end": 1.26, "value": "A" },
+    { "start": 1.26, "end": 1.40, "value": "C" },
+    { "start": 1.40, "end": 1.61, "value": "B" },
+    { "start": 1.61, "end": 2.42, "value": "X" }
+  ]
+}

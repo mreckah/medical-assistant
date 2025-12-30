@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\oussama\\Desktop\\Nouveau dossier (3)\\backend\\audios\\1765913266988_0.wav",
+    "duration": 5.01
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.17, "value": "X" },
+    { "start": 0.17, "end": 0.30, "value": "C" },
+    { "start": 0.30, "end": 0.37, "value": "H" },
+    { "start": 0.37, "end": 0.44, "value": "B" },
+    { "start": 0.44, "end": 0.65, "value": "H" },
+    { "start": 0.65, "end": 0.72, "value": "B" },
+    { "start": 0.72, "end": 1.59, "value": "X" },
+    { "start": 1.59, "end": 1.65, "value": "B" },
+    { "start": 1.65, "end": 1.70, "value": "D" },
+    { "start": 1.70, "end": 1.98, "value": "C" },
+    { "start": 1.98, "end": 2.05, "value": "B" },
+    { "start": 2.05, "end": 2.12, "value": "C" },
+    { "start": 2.12, "end": 2.68, "value": "B" },
+    { "start": 2.68, "end": 2.82, "value": "C" },
+    { "start": 2.82, "end": 2.89, "value": "B" },
+    { "start": 2.89, "end": 3.15, "value": "F" },
+    { "start": 3.15, "end": 3.20, "value": "E" },
+    { "start": 3.20, "end": 3.38, "value": "C" },
+    { "start": 3.38, "end": 3.45, "value": "H" },
+    { "start": 3.45, "end": 3.52, "value": "B" },
+    { "start": 3.52, "end": 3.59, "value": "C" },
+    { "start": 3.59, "end": 3.73, "value": "E" },
+    { "start": 3.73, "end": 4.15, "value": "B" },
+    { "start": 4.15, "end": 5.01, "value": "X" }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\oussama\\Desktop\\avatar LLM\\backend\\audios\\1766776189671_0.wav",
+    "duration": 6.38
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.17, "value": "X" },
+    { "start": 0.17, "end": 0.30, "value": "C" },
+    { "start": 0.30, "end": 0.37, "value": "H" },
+    { "start": 0.37, "end": 0.44, "value": "B" },
+    { "start": 0.44, "end": 0.65, "value": "H" },
+    { "start": 0.65, "end": 0.72, "value": "B" },
+    { "start": 0.72, "end": 1.60, "value": "X" },
+    { "start": 1.60, "end": 1.86, "value": "B" },
+    { "start": 1.86, "end": 2.00, "value": "C" },
+    { "start": 2.00, "end": 2.28, "value": "B" },
+    { "start": 2.28, "end": 2.35, "value": "F" },
+    { "start": 2.35, "end": 2.42, "value": "B" },
+    { "start": 2.42, "end": 2.77, "value": "F" },
+    { "start": 2.77, "end": 3.63, "value": "X" },
+    { "start": 3.63, "end": 3.69, "value": "B" },
+    { "start": 3.69, "end": 3.74, "value": "D" },
+    { "start": 3.74, "end": 3.81, "value": "C" },
+    { "start": 3.81, "end": 3.88, "value": "B" },
+    { "start": 3.88, "end": 3.96, "value": "A" },
+    { "start": 3.96, "end": 4.03, "value": "C" },
+    { "start": 4.03, "end": 4.10, "value": "B" },
+    { "start": 4.10, "end": 4.17, "value": "C" },
+    { "start": 4.17, "end": 4.25, "value": "A" },
+    { "start": 4.25, "end": 4.34, "value": "B" },
+    { "start": 4.34, "end": 4.55, "value": "F" },
+    { "start": 4.55, "end": 4.83, "value": "B" },
+    { "start": 4.83, "end": 5.04, "value": "C" },
+    { "start": 5.04, "end": 5.18, "value": "F" },
+    { "start": 5.18, "end": 5.39, "value": "C" },
+    { "start": 5.39, "end": 5.53, "value": "B" },
+    { "start": 5.53, "end": 6.38, "value": "X" }
+  ]
+}
