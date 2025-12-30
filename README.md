@@ -7,6 +7,8 @@
 ## Introduction
 Welcome to Remedy, your intelligent healthcare companion. Leveraging cutting-edge AI, Remedy provides personalized skin health analysis through natural conversations, making dermatological insights accessible to everyone.
 
+![alt text](<Architecture avatar-1.gif>)
+
 ## Key Features
 
 - **Visual Analysis**: Avatar Interaction
